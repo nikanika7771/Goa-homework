@@ -1,10 +1,24 @@
-#print არის ბეჭდვა
-#ცვლადი არის რაღც რაშიც ათავსებ მოცემულ ინფორმაციას
-name='nika'
-print(name)
-surname = 'gurckaia'
-print(surname)
-age= 16
-print(age)
-country ='georgia'
-print(country)
+#/ გვიჩვენებს ზუსტ გაყოფას
+#// გვიჩვენებს რამდენჯერ მოთავსდება 
+  
+#3
+a = 7
+b = 5
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+print(a**b)
+
+#4
+price = 49
+print(price-12)
+
+#5
+score = 100
+print(score * 35)
+
+#6  რაშედეგს და გამოიტანს მხოლოდ sally ს რადგან იგი ბოლოს დაწერილი კოდია ნინია კი კომენტარის სახიტ არის დაწერილი
+#თორემ ნინია იქნებოდა
