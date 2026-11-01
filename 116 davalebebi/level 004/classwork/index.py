@@ -1,0 +1,6 @@
+firstname = input("შეიყვანეთ თქვენი სახელი: ")
+lastname = input("შეიყვანეთ თქვენი გვარი: ")
+age = input("შეიყვანეთ თქვენი ასაკი: ")
+print("hello" + firstname)
+print("user full name is: " + firstname + lastname)
+print("user age is: " + age)
